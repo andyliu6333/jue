@@ -1,0 +1,35 @@
+---
+title: "Andy Liu Personal Website"
+format: 
+  html:
+    toc: true
+---
+
+# Hi there, I'm Andy Liu! 👋
+
+## 📊 About Me
+
+I teach undergraduate level math and statistics courses.
+
+## 😄 Recently Weekly Courses 
+
+MAT135 F 2024summer weekly course
+
+MAT136 S 2024summer weekly course
+
+STA237 F 2024summer weekly course
+
+STA238 S 2024summer weekly course
+
+STA302 F 2024summer weekly course
+
+## 🛠 Recently Career Courses 
+
+-   SAS certificate base+advance course
+-   SAS business analysis
+-   R for data science
+-   SOA: probability course
+
+You can follow me on GitHub using the link: [TEJMaster](https://github.com/TEJMaster).
+
+## [My CV](Terry_Resume.pdf)
